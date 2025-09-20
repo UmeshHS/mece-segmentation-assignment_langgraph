@@ -1,7 +1,5 @@
 # mece-segmentation-assignment_langgraph
 
-# MECE Audience Segmentation for Cart Abandoners
-
 ## Project Overview
 This project implements a MECE (Mutually Exclusive, Collectively Exhaustive) audience segmentation solution targeting users who recently abandoned their shopping carts. The segmentation helps marketing teams tailor strategies for better customer retention through behavior and value-based classification.
 
